@@ -1,3 +1,15 @@
 {
-    "liveServer.settings.port": 5501
+  "background.editor": {
+    "useFront": true,
+    "style": {
+      "background-position": "100% 100%",
+      "background-size": "auto",
+      "opacity": 0.1
+    },
+    "styles": [{}, {}, {}],
+    // Local images can be dragged into the browser to quickly get the file protocol address from the address bar
+    "images": ["https://marketplace.canva.com/bXd-o/MAFB7ObXd-o/1/tl/canva-playful-kitten-raising-paw-MAFB7ObXd-o.png"],
+    "interval": 0,
+    "random": false
+  }
 }
